@@ -24,4 +24,15 @@ This project was created with AI assistance using Claude. It is part of my techn
 - **App name:** Manabe Zaban (منابع زبان)
 - **Distribution:** Myket
 - **Repository purpose:** Project documentation and release distribution
+  
+#### Screenshots
 
+![Manabe Zaban Screenshot 1](images/screenshot-1.jpg)
+
+![Manabe Zaban Screenshot 2](images/screenshot-2.jpg)
+
+![Manabe Zaban Screenshot 3](images/screenshot-3.jpg)
+
+![Manabe Zaban Screenshot 4](images/screenshot-4.jpg)
+
+![Manabe Zaban Screenshot 5](images/screenshot-5.jpg)
